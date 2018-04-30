@@ -1,0 +1,16 @@
+﻿  SceneHandler.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\game enginer frameworks and patterns\project_01\project_01\project_01\scenehandler.cpp(5): fatal error C1083: Cannot open include file: 'glm/gtc/matrix_transform.hpp': No such file or directory
+  Physics.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\game enginer frameworks and patterns\project_01\project_01\project_01\physics.h(4): fatal error C1083: Cannot open include file: 'glm/vec3.hpp': No such file or directory
+  cVAOMeshManager.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\game enginer frameworks and patterns\project_01\project_01\project_01\cvaomeshmanager.cpp(1): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  cShaderManager.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\game enginer frameworks and patterns\project_01\project_01\project_01\cshadermanager.cpp(3): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  cShader.cpp
+  cMesh.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\game enginer frameworks and patterns\project_01\project_01\project_01\cmesh.h(8): fatal error C1083: Cannot open include file: 'glm/vec3.hpp': No such file or directory
+  cLightManager.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\game enginer frameworks and patterns\project_01\project_01\project_01\clightmanager.h(4): fatal error C1083: Cannot open include file: 'glm/vec3.hpp': No such file or directory
+  cGameObject.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\game enginer frameworks and patterns\project_01\project_01\project_01\cgameobject.h(4): fatal error C1083: Cannot open include file: 'glm/vec3.hpp': No such file or directory
+  Generating Code...

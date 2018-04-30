@@ -1,0 +1,5 @@
+4
+Mountain_landscape_xyz_n_rotated.ply Mountain
+Star_Wars_Snowspeeder_xyz_n_centered.ply Speeder
+atat_xyz_n.ply ATAT
+Sphereply_xyz_n.ply Sphere
